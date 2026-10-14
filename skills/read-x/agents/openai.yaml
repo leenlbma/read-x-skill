@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read X"
+  short_description: "Read X posts and articles with explicit source coverage"
+  default_prompt: "Use $read-x to read this X link and report the retrieved content and any missing source layers."
